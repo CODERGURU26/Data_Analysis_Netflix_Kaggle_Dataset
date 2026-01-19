@@ -282,7 +282,7 @@ Contributions are welcome! Here's how you can help:
 
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Project Link: [Netflix Content Analysis](https://github.com/yourusername/netflix-content-analysis)
+- Project Link: [Netflix Content Analysis]()
 
 ---
 
@@ -298,7 +298,7 @@ Contributions are welcome! Here's how you can help:
 ## 📞 Contact
 
 For questions, suggestions, or collaboration opportunities:
-- 📧 Email: your.email@example.com
+- 📧 Email: guruuu2468@gmail.com
 - 💬 Open an issue in this repository
 
 ---
