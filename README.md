@@ -22,7 +22,6 @@ A comprehensive SQL project analyzing Netflix's content catalog to uncover insig
 - [SQL Concepts Covered](#-sql-concepts-covered)
 - [Results & Insights](#-results--insights)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Author](#-author)
 
 ---
@@ -274,12 +273,6 @@ Contributions are welcome! Here's how you can help:
 - Add more business questions
 - Create dashboard integration
 - Add performance benchmarking
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
