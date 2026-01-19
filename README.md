@@ -280,8 +280,8 @@ Contributions are welcome! Here's how you can help:
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/CODERGURU26)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/gururaj-krishna-sharma-bb0a70322/)
+- GitHub: [CODERGURU26](https://github.com/CODERGURU26)
+- LinkedIn: [Gururaj Krishna Sharma](https://www.linkedin.com/in/gururaj-krishna-sharma-bb0a70322/)
 - Project Link: [Netflix Content Analysis](https://github.com/CODERGURU26/Data_Analysis_Netflix_Kaggle_Dataset.git)
 
 ---
