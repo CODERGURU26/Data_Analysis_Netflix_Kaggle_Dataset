@@ -3,6 +3,7 @@
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 ![Netflix](https://img.shields.io/badge/Platform-Netflix-red)
+![Netflix](netflix-logo.png)
 
 A comprehensive SQL project analyzing Netflix's content catalog to uncover insights about movies, TV shows, ratings, and global content distribution through advanced querying techniques.
 
